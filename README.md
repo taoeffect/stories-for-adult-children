@@ -1,9 +1,3 @@
-**This is a collection of short stories for adult children.**
-
-*Note: You can add more or expand on existing ones. You can also create a dedicated markdown document for a chapter if you want to expand upon it.*
-
-*Thanks to [Mat Mytka‏](https://twitter.com/m3untold/status/929177537573351424) for suggesting I make a repo for these.*
-
 # Short Stories For Adult Children
 
 ## Chapters
@@ -22,6 +16,11 @@
 
 #### 7. "Convenience trumps privacy"
 
+## Contributing
+
+You can add more or expand on existing ones. You can also create a dedicated markdown document for a chapter if you want to expand upon it.
+
+*Thanks to [Mat Mytka‏](https://twitter.com/m3untold/status/929177537573351424) for suggesting I make a repo for these.*
 
 ## License
 
