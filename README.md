@@ -24,6 +24,14 @@
 
 *Suggested by [@asthesparksfly](https://twitter.com/asthesparksfly/status/929183608094330880).*
 
+### 9. "Banks and government get money right, every time, throughout history"
+
+*Suggested by [@chuckwilliams37](https://twitter.com/chuckwilliams37/status/929187812418650112)*
+
+### 10. "Freedom is why you pay taxes to kill children"
+
+*Suggested by [@chuckwilliams37](https://twitter.com/chuckwilliams37/status/929187812418650112)*
+
 ## Contributing
 
 You can add more or expand on existing ones. You can also create a dedicated markdown document for a chapter if you want to expand upon it.
