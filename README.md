@@ -2,7 +2,7 @@
 
 ## Chapters
 
-### 1. "🍕-gate Has [No Basis](https://www.youtube.com/watch?v=yP1MtaSIePk) In Reality"
+### 1. "🍕-gate Has [No Basis](https://www.youtube.com/watch?v=yP1MtaSIePk) [In Reality](https://www.thedailybeast.com/the-billionaire-pedophile-who-could-bring-down-donald-trump-and-hillary-clinton)"
 
 *1-6 suggested by [@taoeffect](https://twitter.com/taoeffect/status/929158802804416512)*
 
