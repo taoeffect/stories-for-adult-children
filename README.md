@@ -4,7 +4,7 @@
 
 ### 1. "🍕-gate Has [No Basis](https://www.youtube.com/watch?v=yP1MtaSIePk) In Reality"
 
-*1-6 suggested by [@taoeffect](https://twitter.com/taoeffect/status/929158802804416512).*
+*1-6 suggested by [@taoeffect](https://twitter.com/taoeffect/status/929158802804416512)*
 
 ### 2. "9/11 was settled long ago and is ['old news'](https://twitter.com/AE911Truth/status/906640874737561600)"
 
@@ -18,11 +18,11 @@
 
 ### 7. "Convenience trumps privacy."
 
-*Suggested by [@m3untold](https://twitter.com/m3untold/status/929177074539012097).*
+*Suggested by [@m3untold](https://twitter.com/m3untold/status/929177074539012097)*
 
 ### 8. "If you have nothing to hide you have nothing to fear."
 
-*Suggested by [@asthesparksfly](https://twitter.com/asthesparksfly/status/929183608094330880).*
+*Suggested by [@asthesparksfly](https://twitter.com/asthesparksfly/status/929183608094330880)*
 
 ### 9. "Banks and government get money right, every time, throughout history"
 
