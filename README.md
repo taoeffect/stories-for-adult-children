@@ -32,6 +32,10 @@
 
 *Suggested by [@chuckwilliams37](https://twitter.com/chuckwilliams37/status/929187812418650112)*
 
+### 11. "Secret societies have a place in government."
+
+### 12. "Advanced autocomplete is AGI."
+
 ## Contributing
 
 You can add more or expand on existing ones. You can also create a dedicated markdown document for a chapter if you want to expand upon it.
